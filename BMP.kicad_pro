@@ -56,6 +56,7 @@
         }
       ],
       "drc_exclusions": [
+        "isolated_copper|37058228|23385680|f8c8feb9-8c0a-4729-b385-3f653f3bb4ae|00000000-0000-0000-0000-000000000000",
         "silk_edge_clearance|24340000|48000000|78bd06a4-bfcb-4b92-ab85-5852a8d6a218|780a5a9e-f4f9-4910-bda9-21481e680cea",
         "silk_edge_clearance|32160000|48000000|78bd06a4-bfcb-4b92-ab85-5852a8d6a218|771ff15f-874a-4a3e-894c-5891ad7ee57d",
         "silk_edge_clearance|81750000|37170000|78bd06a4-bfcb-4b92-ab85-5852a8d6a218|b905ce28-3fd9-492b-bd92-facce0e736bd",
