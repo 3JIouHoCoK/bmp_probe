@@ -1,0 +1,12 @@
+(footprint "reper" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp f34a27b1-4261-4d85-a421-ae42a2ad4afb)
+  )
+  (fp_text value "reper" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp ab6f77a3-7a89-4580-9d6b-75a9f2427bed)
+  )
+  (pad "" thru_hole circle (at 0 0) (size 3.175 3.175) (drill 1.2) (property pad_prop_fiducial_glob) (layers "*.Mask") (tstamp 44e49c40-42d4-464c-b4a8-280b351ba83c))
+)

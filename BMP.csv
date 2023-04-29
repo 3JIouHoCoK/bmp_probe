@@ -1,0 +1,27 @@
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+Item,Qty,Reference(s),Value
+1,2,"C1, C2",1uF
+2,4,"C3, C4, C5, C6",100nF
+3,2,"C7, C8",18p
+4,1,CN1,USB_B_Mini
+5,4,"D1, D2, D3, D4",LED
+6,1,J1,Conn_01x04_Pin
+7,1,J2,Conn_02x05_Odd_Even
+8,1,Q1,IRLML5203
+9,2,"R1, R2",220
+10,1,R3,1K5
+11,4,"R4, R5, R6, R13",10K
+12,2,"R7, R8",4K7
+13,4,"R9, R10, R11, R12",390
+14,2,"SW1, SW2",SW_Push
+15,1,U1,STM32F103CBTx
+16,1,U2,TXS0108EPW
+17,1,U3,TLV70033_SOT23-5
+18,1,Y1,8MHz
